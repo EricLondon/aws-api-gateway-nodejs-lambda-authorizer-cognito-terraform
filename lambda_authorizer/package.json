@@ -1,0 +1,13 @@
+{
+  "name": "lambda_authorizer",
+  "private": true,
+  "version": "1.0.0",
+  "main": "lambda_authorizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.354.0",
+    "jsonwebtoken": "^8.3.0"
+  }
+}
