@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "aws-sdk": "^2.814.0",
-    "jsonwebtoken": "^8.3.0"
+    "jsonwebtoken": "^9.0.0"
   }
 }
