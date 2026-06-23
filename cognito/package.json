@@ -9,7 +9,7 @@
   "author": "Eric London <github@ericlondon.com>",
   "license": "ISC",
   "dependencies": {
-    "amazon-cognito-identity-js": "^6.3.6",
+    "amazon-cognito-identity-js": "^6.3.18",
     "aws-amplify": "^6.16.2",
     "aws-sdk": "^2.1354.0",
     "jsonwebtoken": "^9.0.0",
